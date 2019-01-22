@@ -1,5 +1,7 @@
 // Copy the code from within this viewcontroller to new viewcontrollers in your project,
 // to get a fast start at implementing these new viewcontrollers.
+// And adopt the StateUpdatable protocol in your viewcontroller
+// (set ", StateUpdatable" after the class type)
 //
 // The code below involving the label variable, the number variable, and the buttonPress function
 // is example code that needs to be replaced
