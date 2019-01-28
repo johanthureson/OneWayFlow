@@ -1,6 +1,6 @@
 import Foundation
 
-let action = ActionClass(persistState: true)
+let action = ActionClass(persistState: false)
 
 class ActionClass: ActionClassParent {
 
